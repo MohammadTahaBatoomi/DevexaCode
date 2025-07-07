@@ -2,10 +2,6 @@
 
 DevexaCode is a powerful, modern, and responsive **online code editor** that supports multiple programming languages. Built with **Next.js** and **Tailwind CSS**, it allows users to write, run, and share code directly in the browser using the **Judge0 API**.
 
-## 🌐 Live Demo
-
-> Coming Soon — Hosted version will be available at: [https://devexacode.com](https://devexacode.com)
-
 ---
 
 ## ✨ Features
@@ -38,7 +34,7 @@ DevexaCode is a powerful, modern, and responsive **online code editor** that sup
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/devexacode.git
+git clone https://github.com/MohammadTahaBatoomi/DevexaCode.git
 cd devexacode
 
 # 2. Install dependencies
