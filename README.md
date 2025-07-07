@@ -30,17 +30,24 @@ DevexaCode is a powerful, modern, and responsive **online code editor** that sup
 
 ---
 
-## 🔧 Setup & Run Locally
+# Installation 👨🏻‍💻
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/MohammadTahaBatoomi/DevexaCode.git
-cd devexacode
+> We recommend you use npm
 
-# 2. Install dependencies
-npm install
+1. Install all packages
 
-# 3. Run the development server
+```
+npm i
+```
+
+2. Run Development Server
+
+```
 npm run dev
+```
 
-# App runs on: http://localhost:3000
+3. Build your project
+
+```
+npm run build
+```
